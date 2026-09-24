@@ -1,0 +1,25 @@
+# Compiled script output (keep if you'd rather ship compiled .int directly;
+# comment these out if you want to commit compiled scripts too)
+# data/scripts/*.int  if you want these files included in the commits simply get rid of this text and the (# symbol for this line)
+
+# Compiler / editor temp files
+*.bak
+*.tmp
+*.log
+
+# sfall debug output
+debug.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Archives you might build locally
+*.zip
+*.7z
+*.rar
